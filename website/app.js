@@ -1,5 +1,5 @@
 /* Global Variables */
-const apikey= '&appid=8ae8d84a45d62d33277df69a27f57e4f&units=metric';
+const apikey= '&appid=blankedforsecurityreasons&units=metric';
 
 const tempDiv=document.getElementById('temp');
 const dateDiv=document.getElementById('date');
